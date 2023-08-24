@@ -291,7 +291,7 @@ Review: """${prod_review}"""
 
 Infer sentiment and topics from given text.
 
-### Semtiment analysis
+### Sentiment analysis
 
 ```javascript
 const prod_review = `
